@@ -32,15 +32,15 @@ Previously, people's concerns about the disease followed a fixed pattern, but th
 
 **Step 2: Correlation analysis: wiki pageview of health and covid cases.**
 
-Calculate the correlations between wiki pageview of health (covid, non-covid, and mental health) and covid cases (positive cases, and death cases per day). 
+- Calculate the correlations between wiki pageview of health (covid, non-covid, and mental health) and covid cases (positive cases, and death cases per day). 
 
 **Step 3: Correlation analysis: wiki pageview of health and mobility.**
 
-Calculate the correlations between wiki pageview of health (covid, non-covid, and mental health) and mobility data. 
+- Calculate the correlations between wiki pageview of health (covid, non-covid, and mental health) and mobility data. 
 
 **Step 4: Time series analysis.**
 
-Using regression analysis to qualify the relationship
+- Using regression analysis to qualify the relationship
 
 **Step 5: Datastory and website design.**
 
