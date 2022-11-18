@@ -16,9 +16,9 @@ Views of Wikipedia articles about COVID-19 can reflect the major developments of
  
 
 # Proposed additional dataset:
-**AD1**: COVID-19 infection and death dataset: WHO public data, integrated data for English/German/French using the same weighted average method as stated in the paper.
+**AD1**: COVID-19 infection and death dataset: [WHO public data](https://covid19.who.int/data), integrated data for English/German/French using the same weighted average method as stated in the paper.
 
-**AD2**: Keyword dataset: provides the range of pageview we are interested in, including keys about covid-symptoms, non-covid-symptoms and mental health.
+**AD2**: [Keyword dataset](https://github.com/epfl-ada/ada-2022-project-wizards2122/blob/main/data/key_words.csv): provides the range of pageview we are interested in, including keys about covid-symptoms, non-covid-symptoms and mental health.
 
 # Methods:
 
