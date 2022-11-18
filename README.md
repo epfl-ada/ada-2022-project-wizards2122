@@ -46,12 +46,19 @@ Using regression analysis to qualify the relationship
 # Proposed timeline:
 
 **18.11.22 Milestone 2**
+
 18.11.22 - 02.12.22: Break from the project to work on Homework 2
+
 **02.12.22: Homework 2 submission**
+
 05.12.22: All data have been collected and processed
+
 10.12.22: Correlation analysis and data visualisation 
+
 15.12.22: Regression analysis
+
 20.12.22: Analysis finished and start building our data story website
+
 **23.12.2022: Project milestone P3 submission**
 
 # Organization within the team:
