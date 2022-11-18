@@ -24,9 +24,11 @@ Previously, people's concerns about the disease followed a fixed pattern, but th
 
 **Step 1: Data collection, pre-processing and dataset construction.**
 
-Keyword translation: translate keyword dictionary to language we are interested in. 
-Wiki pageview data collection: According to keywords, we can extract pages from topic_linked.csv that provides, then using Wikimedia REST API to collect daily pageview data for each page. 
-Covid dataset and mobility dataset processing: integrate data according to different languages, using weighted sum for English/German/French.
+- Keyword translation: translate keyword dictionary to language we are interested in. 
+
+- Wiki pageview data collection: According to keywords, we can extract pages from topic_linked.csv that provides, then using Wikimedia REST API to collect daily pageview data for each page. 
+
+- Covid dataset and mobility dataset processing: integrate data according to different languages, using weighted sum for English/German/French.
 
 **Step 2: Correlation analysis: wiki pageview of health and covid cases.**
 
