@@ -64,8 +64,11 @@ Using regression analysis to qualify the relationship
 # Organization within the team:
 
 **Hailin Liu**: Data Processing and data story building 
+
 **Jiawei Chen**: Data Processing and analysis, data story building  
+
 **Qiming Sun**: Time series and regression analysis and website building
+
 **ShuShu Zhang**: Data correlation analysis and data story building 
 
 # Questions for TAs (optional): 
