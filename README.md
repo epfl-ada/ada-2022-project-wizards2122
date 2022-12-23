@@ -6,8 +6,8 @@ Views of Wikipedia articles about COVID-19 can reflect the major developments of
 
 
 # Research questions:
-1. Is there any evidence showing that the trend of pageviews associated with COVID-19 is related to COVID infections? If it does, what’s their causation?  
-2. How attention to mental illness has changed during the pandemic. Are these changes mainly due to social and psychological changes caused by the epidemic lockdown or due to people’s panic about this new disease?  
+1. Is there any evidence showing that the trend of pageviews associated with COVID-19 is related to COVID infections? If it does, what’s their causality?  
+2. How attention to health has changed during the pandemic. Are these changes mainly due to social and psychological changes caused by the epidemic lockdown or due to people’s panic about this new disease?
 3. The stringent policies implemented during the Coronavirus pandemic had reduced human movements. We wonder if there is a correlation between the Wiki pageviews and mobility change? If it does, what’s their causality and what can we infer from the data?
 
 
@@ -21,23 +21,23 @@ Views of Wikipedia articles about COVID-19 can reflect the major developments of
 
 **Step 1: Data collection, pre-processing and dataset construction.**
 
-- Keyword translation: translate keyword dictionary to language we are interested in. 
+- Keyword collection: identify the keywords we are interested in (including covid, non-covid and mental health related keywords). 
 
-- Wiki pageview data collection: According to keywords, we can extract pages from topic_linked.csv that provides, then using Wikimedia REST API to collect daily pageview data for each page. 
+- Wiki pageview data collection: According to keywords, we can extract pages from topic_linked.csv that provides, then using Wikimedia REST API to collect daily pageview data for each page. After that, we manually categorize each page to more refined categories.
 
 - Covid dataset and mobility dataset processing: integrate data according to different languages, using weighted sum for English/German/French.
 
 **Step 2: Correlation analysis: wiki pageview of health and covid cases.**
 
-- Calculate the correlations between wiki pageview of health (covid, non-covid, and mental health) and covid cases (positive cases, and death cases per day). 
+- Calculate the correlations between wiki pageview of health (covid, non-covid, and mental health) and covid cases (positive cases per day). 
 
 **Step 3: Correlation analysis: wiki pageview of health and mobility.**
 
-- Calculate the correlations between wiki pageview of health (covid, non-covid, and mental health) and mobility data. 
+- Calculate the correlations between wiki pageview of health (covid, non-covid, and mental health) and mobility change data. 
 
 **Step 4: Time series analysis.**
 
-- Using regression analysis to qualify the relationship
+- Using regression analysis to qualify the relationship.
 
 **Step 5: Datastory and website design.**
 
@@ -64,11 +64,11 @@ Views of Wikipedia articles about COVID-19 can reflect the major developments of
 
 **Hailin Liu**: Data correlation analysis and data story building
 
-**Jiawei Chen**: Data Processing and analysis, data story building  
+**Jiawei Chen**: Data collection and processing, correlation analysis and data story building  
 
 **Qiming Sun**: Time series and regression analysis and website building
 
 **Shushu Zhang**: Topic classification and data story building 
 
-# Questions for TAs (optional): 
+
 
