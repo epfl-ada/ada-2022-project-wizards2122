@@ -68,7 +68,7 @@ Views of Wikipedia articles about COVID-19 can reflect the major developments of
 
 **Qiming Sun**: Time series and regression analysis and website building
 
-**ShuShu Zhang**: Topic classification and data story building 
+**Shushu Zhang**: Topic classification and data story building 
 
 # Questions for TAs (optional): 
 
