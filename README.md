@@ -1,6 +1,17 @@
 # Topic： A peek at covid's impact on physical and mental health through digital footprints.
 
+# Milestone 3
+
+## Data story
 We are the group of **Wizards2122** of the Applied Data Analysis. Our data story is [here](https://futureson.github.io/Covidpageviews/). If you are interested how do we build that website, you can find all the information [here](https://github.com/futureson/Covidpageviews)
+
+## Notebooks
+The analysis are divided into 4 parts: 
+
+- Data Processing
+- Correlation of mobility and pageviews
+- Correlation of covid cases and pageviews
+- Effects of intervention events
 
 # Abstract:
 Views of Wikipedia articles about COVID-19 can reflect the major developments of people’s attention in the lifetime of this pandemic. Analyzing the pageviews of COVID-19-related articles can give us an insight into how people are using Wikipedia to share and find information during this unprecedented time. We are not only interested in the Wikipedia pageview of COVID-symptoms, but also non-COVID diseases (not brought by or not directly related to COVID-19), and mental illnesses. Via analyzing the digital footprints during the COVID-19 pandemic, our project aims to figure out the patterns between covid cases and people’s interests in these kinds of physical and mental health shown by Wikipedia pageview. In addition, people’s mobility during the pandemic will be taken into account for pattern analysis. 
