@@ -2,7 +2,7 @@
 
 # Milestone 3
 
-## [Data story]((https://futureson.github.io/Covidpageviews/))
+## [Data story](https://futureson.github.io/Covidpageviews/)
 We are the group of **Wizards2122** of the Applied Data Analysis. Our data story is [here](https://futureson.github.io/Covidpageviews/). If you are interested how do we build that website, you can find all the information [here](https://github.com/futureson/Covidpageviews)
 
 ## Notebooks
