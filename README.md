@@ -62,7 +62,7 @@ Views of Wikipedia articles about COVID-19 can reflect the major developments of
 
 # Organization within the team:
 
-**Hailin Liu**: Data Processing and data story building 
+**Hailin Liu**: Data correlation analysis and data story building
 
 **Jiawei Chen**: Data Processing and analysis, data story building  
 
