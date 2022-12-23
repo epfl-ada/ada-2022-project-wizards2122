@@ -79,7 +79,7 @@ The work is equally distributed among all the group members
 
 **Jiawei Chen**: Data collection and processing, correlation analysis and data story building  
 
-**Qiming Sun**: Time series and regression analysis and website building
+**Qiming Sun**: Time series and regression analysis as well as website building
 
 **Shushu Zhang**: Topic classification and data story building 
 
