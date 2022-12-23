@@ -2,7 +2,7 @@
 
 # Milestone 3
 
-## Data story
+## [Data story]((https://futureson.github.io/Covidpageviews/))
 We are the group of **Wizards2122** of the Applied Data Analysis. Our data story is [here](https://futureson.github.io/Covidpageviews/). If you are interested how do we build that website, you can find all the information [here](https://github.com/futureson/Covidpageviews)
 
 ## Notebooks
@@ -10,8 +10,8 @@ The analysis are divided into 4 parts:
 
 - [Data Processing](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/1.Data%20Processing)
 - [Correlation of mobility and pageviews](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/2.Correlation%20of%20covid%20cases%20and%20pageviews)
-- [Correlation of covid cases and pageviews](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/3.Correlation%20of%20moblity%20and%20pageviews)
-- [Effects of intervention events](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/4.Effects%20of%20intervention%20events)
+- [Correlation of covid cases and pageviews](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/4.Effects%20of%20intervention%20events)
+- [Effects of intervention events](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/3.Correlation%20of%20moblity%20and%20pageviews)
 
 # Abstract:
 Views of Wikipedia articles about COVID-19 can reflect the major developments of people’s attention in the lifetime of this pandemic. Analyzing the pageviews of COVID-19-related articles can give us an insight into how people are using Wikipedia to share and find information during this unprecedented time. We are not only interested in the Wikipedia pageview of COVID-symptoms, but also non-COVID diseases (not brought by or not directly related to COVID-19), and mental illnesses. Via analyzing the digital footprints during the COVID-19 pandemic, our project aims to figure out the patterns between covid cases and people’s interests in these kinds of physical and mental health shown by Wikipedia pageview. In addition, people’s mobility during the pandemic will be taken into account for pattern analysis. 
@@ -19,10 +19,9 @@ Views of Wikipedia articles about COVID-19 can reflect the major developments of
 
 
 # Research questions:
-1. Is there any evidence showing that the trend of pageviews associated with COVID-19 is related to COVID infections? If it does, what’s their causality?  
+1. Is there any evidence showing that the trend of pageviews associated with COVID-19 is related to COVID infections? If it does, what’s their causality?  How about the noncovid decreases and mental issues?
 2. The stringent policies implemented during the Coronavirus pandemic had reduced human movements. We wonder if there is a correlation between the Wiki pageviews and mobility change? If it does, what’s their causality and what can we infer from the data?
-3. How attention to health has changed during the pandemic? 
-
+3. How attention to different Wiki topics affected by intervention events?
 
 
 # Proposed additional dataset:
