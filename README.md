@@ -9,8 +9,8 @@ We are the group of **Wizards2122** for the Applied Data Analysis. Our data stor
 The analysis are divided into 4 parts: 
 
 - [Data Processing](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/1.Data%20Processing)
-- [Correlation of mobility and pageviews](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/2.Correlation%20of%20covid%20cases%20and%20pageviews)
-- [Correlation of covid cases and pageviews](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/4.Effects%20of%20intervention%20events)
+- [Correlation of mobility and pageviews](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/4.Effects%20of%20intervention%20events)
+- [Correlation of covid cases and pageviews](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/2.Correlation%20of%20covid%20cases%20and%20pageviews)
 - [Effects of intervention events](https://github.com/epfl-ada/ada-2022-project-wizards2122/tree/main/notebooks/3.Correlation%20of%20moblity%20and%20pageviews)
 
 # Abstract:
