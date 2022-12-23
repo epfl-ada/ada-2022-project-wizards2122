@@ -6,14 +6,11 @@ Views of Wikipedia articles about COVID-19 can reflect the major developments of
 
 
 # Research questions:
+1. Is there any evidence showing that the trend of pageviews associated with COVID-19 is related to COVID infections? If it does, what’s their causation?
+2. How attention to mental illness has changed during the pandemic. Are these changes mainly due to social and psychological changes caused by the epidemic lockdown or due to people's panic about this new disease? 
+3. Previously, people's concerns about the disease followed a fixed pattern, but the outbreak of COVID-19 may have changed that. How did these diseases such as cancer, which are not clearly associated with COVID-19, change during the pandemic? Are they related to changes in cases of COVID-19?
 
 
-1. Is there any evidence showing that covid-symptoms pageviews are related to covid infections and covid death? If it does, what’s their causation?
-2. How attention to mental illness has changed during the pandemic. Are these changes mainly due to social and psychological changes caused by the epidemic lockdown or due to people's panic about this new disease? We will draw conclusions by comparing the correlation between mental illness attention and COVID -19 cases, and the comparative research before and after the mobility change point.
-3. Previously, people's concerns about the disease followed a fixed pattern, but the outbreak of COVID-19 changed all that. How did these common diseases, which are not clearly associated with COVID-19, change during the pandemic? Are they related to changes in cases of COVID-19.
-
-# Hypotheses：
- 
 
 # Proposed additional dataset:
 **AD1**: COVID-19 infection and death dataset: [WHO public data](https://covid19.who.int/data), integrated data for English/German/French using the same weighted average method as stated in the paper.
